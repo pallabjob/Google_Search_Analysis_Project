@@ -1,4 +1,6 @@
 Google Search Analysis Project
+
+
 Introduction:
 The Google Search Analysis Project focuses on analyzing search trends to understand what people are searching for and how interest in different topics changes over time. 
 With the rapid growth of the internet, analyzing search behavior helps businesses, marketers, and analysts identify trending topics, user interests, and seasonal patterns.
